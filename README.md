@@ -27,7 +27,7 @@ python Clock.py
 - Install datetime library.
 
 ## License
-This project is open-source and available under the MIT License. You are free to use, modify, and distribute the code as per the license terms
+This project is open-source and available under the <a href="https://github.com/zahid60/Digital-Clock/blob/master/LICENSE">MIT License</a> . You are free to use, modify, and distribute the code as per the license terms
 
 If you have any questions or suggestions, please feel free to open an issue or make a pull request. We appreciate your feedback!
 
